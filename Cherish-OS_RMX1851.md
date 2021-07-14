@@ -4,3 +4,4 @@ use july fp
 Added Moto dolby
 misc changes
 Some basic performance Tweaks
+Fixed 2% Battery Drop
