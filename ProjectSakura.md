@@ -7,6 +7,14 @@
 4. Fixed 2% Battery issue
 5. misc Changes
 
+
+
+
+
+
+
+
+
 # RMX1851_Changelogs
 # ProjectSakura 5.2 August Update
 
