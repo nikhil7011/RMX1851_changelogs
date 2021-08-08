@@ -12,13 +12,3 @@
 
 
 
-
-# RMX1851_Changelogs
-# ProjectSakura 5.2 August Update
-
-1. Added August Google FP
-2. Added Pixel Offline Charging
-3. Added support for unlimited backup on Google Photos
-4. Misc Changes
-
-
