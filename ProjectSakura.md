@@ -13,13 +13,6 @@
 
 
 
-
-
-
-
-
-
-
 # RMX1851_Changelogs
 # ProjectSakura 5.2 August Update
 
