@@ -12,19 +12,15 @@
 
 
 
-
 # RMX1851_changelogs
 # PixelPlus UI Changelogs
-# 3.8 Hikaru
+# 3.8 Hikaru August Build
 
 1. Added Google Aug FP
 2. Added VooC Charging
 3. Added Pixel Offline Charging
 4. Added Support for Unlimited Backup Photos
 5. Misc Changes
-
-
-
 
 
 
